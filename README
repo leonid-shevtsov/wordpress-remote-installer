@@ -1,0 +1,10 @@
+WordPress Remote Installer 1.0
+(с) 2008 coldFlame
+
+1. Закачать на хостинг
+2. Открыть из обозревателя
+3. Следовать инструкциям
+
+Требования: PHP 4.2+, libcurl, tar, обозреватель с поддержкой AJAX 
+
+Подробности на http://coldflame.in.ua/wpinstaller
